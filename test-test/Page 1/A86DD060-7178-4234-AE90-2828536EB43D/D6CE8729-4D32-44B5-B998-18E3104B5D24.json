@@ -19,8 +19,8 @@
     "constrainProportions": false,
     "height": 191,
     "width": 209,
-    "x": 28,
-    "y": 59
+    "x": 44,
+    "y": 17
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -105,9 +105,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.7036911231884058,
+          "green": 0.3224517043251378,
+          "red": 0.251588348787806
         },
         "fillType": 0,
         "isEnabled": true,

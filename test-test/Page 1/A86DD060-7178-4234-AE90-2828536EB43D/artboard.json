@@ -52,6 +52,10 @@
     {
       "class": "rectangle",
       "id": "D6CE8729-4D32-44B5-B998-18E3104B5D24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECC94063-CE41-42C8-940D-660128AEA982"
     }
   ],
   "name": "artboard-01",
